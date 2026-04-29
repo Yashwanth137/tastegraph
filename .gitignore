@@ -47,3 +47,6 @@ backend/alembic/versions/__pycache__/
 *.pid
 *.seed
 .cache/
+
+implementation_plan.md
+library_system_extension.md
